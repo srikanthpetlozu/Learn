@@ -6,6 +6,12 @@ Apex
 Triggers
 Bots
 
+
+VF pages
+communities
+
 Omnichannel
 
+
 thank you
+Done all the changes
