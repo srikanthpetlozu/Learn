@@ -6,4 +6,7 @@ Apex
 Triggers
 Bots
 
+VF pages
+communities
+
 thank you
